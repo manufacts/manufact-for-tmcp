@@ -1,0 +1,19 @@
+{
+  "name": "mcp-detect-tmcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "tmcp": "^1.19.0",
+    "@tmcp/adapter-zod": "^0.5.0",
+    "@tmcp/transport-stdio": "^0.5.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
