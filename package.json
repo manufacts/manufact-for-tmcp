@@ -10,7 +10,9 @@
   "dependencies": {
     "tmcp": "^1.19.0",
     "@tmcp/adapter-zod": "^0.1.7",
-    "zod": "^3.23.0"
+    "@tmcp/transport-http": "^0.8.5",
+    "@remix-run/node-fetch-server": "^0.13.0",
+    "zod": "^4.0.0"
   },
   "devDependencies": {
     "typescript": "^5.4.0",
