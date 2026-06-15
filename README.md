@@ -8,7 +8,7 @@
 
 Built with [`tmcp`](https://github.com/tmcp/tmcp) — schema-agnostic, protocol-level MCP Apps wiring (no widget DSL).
 
-**Live demo:** [`fast-wave-zubi2.run.mcp-use.com/mcp`](https://fast-wave-zubi2.run.mcp-use.com/mcp)
+**Live demo:** [`dark-forge-inqbu.run.mcp-use.com/mcp`](https://dark-forge-inqbu.run.mcp-use.com/mcp)
 
 </div>
 
