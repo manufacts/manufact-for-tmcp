@@ -8,9 +8,9 @@
     "start": "node dist/index.js"
   },
   "dependencies": {
-    "tmcp": "^1.19.4",
+    "tmcp": "^1.20.0",
     "@tmcp/adapter-zod": "^0.1.8",
-    "@tmcp/transport-http": "^0.8.6",
+    "@tmcp/transport-http": "^0.9.0",
     "@remix-run/node-fetch-server": "^0.14.1",
     "zod": "^4.0.0"
   },
